@@ -1,3 +1,3 @@
-# AdventureBuddies01
+# AdventureBuddies
 
 Developed with Unreal Engine 4
